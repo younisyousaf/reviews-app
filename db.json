@@ -1,0 +1,32 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "David",
+      "job": "Frontend Developer",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "text": "Angular Signals made state management much smoother and easier to maintain."
+    },
+    {
+      "id": 2,
+      "name": "Emily",
+      "job": "UI Designer",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "text": "This review slider is clean, fast, and very beginner-friendly to use."
+    },
+    {
+      "id": 3,
+      "name": "Ali Raza",
+      "job": "Software Engineer",
+      "image": "https://randomuser.me/api/portraits/men/67.jpg",
+      "text": "The interface feels modern and the review switching animation is very smooth."
+    },
+    {
+      "id": 4,
+      "name": "Nadine",
+      "job": "Product Manager",
+      "image": "https://randomuser.me/api/portraits/women/27.jpg",
+      "text": "A simple and effective component that works perfectly for showcasing customer feedback."
+    }
+  ]
+}
